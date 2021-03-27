@@ -1,5 +1,6 @@
 # Files-on-Pendrives-AiSD-Project-1
 
+Project number 1 AiSD descritpion:
 
 Files on pendrives (AiSD 2021 P1)
 There are files on your disk. You have to copy as many files as possible into two pendrives. Files cannot be divided. Write a program that will select files. Your answer can be different from optimal result by 1.
